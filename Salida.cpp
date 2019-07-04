@@ -2,7 +2,6 @@
 
 #include "xlsxwriter.h"  // libreria LIBXLSXWRITE se ocupa para escribir en archivos .xlsx
 
-#include <stdlib.h> //Para _Exit
 #include <iostream>
 #include <string>
 #include <vector>
