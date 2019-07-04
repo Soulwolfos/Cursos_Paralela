@@ -70,7 +70,7 @@ Por defecto la libreria queda en `/usr/local/lib/libxlsxwriter.so `
 
 ------------
 
-#### Para Compilar
+#### Para Compilar el programa
 ```
 $  mkdir ProgramaHorarios
 $  cd ProgramaHorarios/
@@ -84,9 +84,9 @@ $ ./a.out -s Salas.xlsx -d Docentes.xlsx -c Cursos.xlsx
 ------------
 
 #### Integrantes
-> Rodrigo Lobos 
-> Matias Camus
-> Michel Hernández 
+- Rodrigo Lobos 
+- Matias Camus
+- Michel Hernández 
 
 
 
