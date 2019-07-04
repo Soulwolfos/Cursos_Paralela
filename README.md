@@ -4,9 +4,9 @@ Con los 3 archivos .xlsx `Docentes, Salas, Cursos` se crea el horario de ocupaci
 
 ------------
 
+ 
+#### Se utilizaron las siguientes librerias para trabajar con los archivos .xlsx
 
-#### Para Compilar
-Se utilizaron las siguientes librerias para trabajar con los archivos .xlsx
 - [XLSX I/O](https://github.com/brechtsanders/xlsxio "XLSX I/O")
 - [libxlsxwriter](https://github.com/jmcnamara/libxlsxwriter "libxlsxwriter")
 
