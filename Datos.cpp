@@ -7,6 +7,8 @@
 #include <string>
 #include <vector>
 
+#include <cstdio> //libreria para el stderr 
+
 #include <omp.h>
 
 using namespace std;
